@@ -50,8 +50,10 @@
 }
 
 .common-panel-header-dpElectricty {
-  width: 500px;
-	height: 75px;
+  width: 150px;
+  height: 75px;
+  height: 64px;
+  padding: 20px 24px;
   font-family: DINCondensed-Bold;
   overflow: hidden;
   text-overflow: ellipsis;
